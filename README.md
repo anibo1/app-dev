@@ -4,5 +4,5 @@ My first repository
 1. Dr.Strange
 2. John Wick
 # add info about favorite movie
-{"Genre": "Sci-fi"}
-{"Genre": "Action"}
+{"Title": "Dr.Strange", "Genre": "Sci-fi"}
+{"Title": "John Wick", "Genre": "Action"}
